@@ -541,8 +541,6 @@ build.json @home-assistant/supervisor
 /tests/components/frontend/ @home-assistant/frontend
 /homeassistant/components/frontier_silicon/ @wlcrs
 /tests/components/frontier_silicon/ @wlcrs
-/homeassistant/components/fsolar/ @comcowo
-/tests/components/fsolar/ @comcowo
 /homeassistant/components/fujitsu_fglair/ @crevetor
 /tests/components/fujitsu_fglair/ @crevetor
 /homeassistant/components/fully_kiosk/ @cgarwood

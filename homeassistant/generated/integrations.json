@@ -2192,12 +2192,6 @@
       "config_flow": true,
       "iot_class": "local_polling"
     },
-    "fsolar": {
-      "name": "Felicity Solar Inverter - Modbus",
-      "integration_type": "hub",
-      "config_flow": true,
-      "iot_class": "local_polling"
-    },
     "fujitsu": {
       "name": "Fujitsu",
       "integrations": {
