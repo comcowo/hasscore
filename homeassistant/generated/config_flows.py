@@ -225,6 +225,7 @@ FLOWS = {
         "fritzbox_callmonitor",
         "fronius",
         "frontier_silicon",
+        "fsolar",
         "fujitsu_fglair",
         "fully_kiosk",
         "fyta",
